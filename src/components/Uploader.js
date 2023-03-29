@@ -45,5 +45,3 @@ function Uploader() {
 }
 
 export default Uploader
-
-// fasdfsdf
